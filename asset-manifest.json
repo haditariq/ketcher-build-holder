@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.9e51c318.css",
-    "main.js": "./static/js/main.60e940b9.js",
-    "popup.css": "./static/css/popup.9e51c318.css",
-    "popup.js": "./static/js/popup.ac27a229.js",
-    "duo.css": "./static/css/duo.664d77e3.css",
-    "duo.js": "./static/js/duo.1c5069e6.js",
-    "static/js/264.316c6ae1.chunk.js": "./static/js/264.316c6ae1.chunk.js",
-    "static/js/692.9fb99d88.chunk.js": "./static/js/692.9fb99d88.chunk.js",
-    "static/js/101.ac21b6b4.chunk.js": "./static/js/101.ac21b6b4.chunk.js",
+    "main.css": "./static/css/main.24c4bf96.css",
+    "main.js": "./static/js/main.b3b41d80.js",
+    "popup.css": "./static/css/popup.24c4bf96.css",
+    "popup.js": "./static/js/popup.bb4ec838.js",
+    "duo.css": "./static/css/duo.571a107b.css",
+    "duo.js": "./static/js/duo.f8930167.js",
+    "closable.css": "./static/css/closable.24c4bf96.css",
+    "closable.js": "./static/js/closable.63b515e2.js",
+    "static/js/535.c5fc3b49.chunk.js": "./static/js/535.c5fc3b49.chunk.js",
+    "static/js/866.16bfe874.chunk.js": "./static/js/866.16bfe874.chunk.js",
+    "static/js/84.f5225d88.chunk.js": "./static/js/84.f5225d88.chunk.js",
+    "closable.html": "./closable.html",
     "popup.html": "./popup.html",
     "duo.html": "./duo.html",
     "index.html": "./index.html",
-    "closable.html": "./closable.html",
     "serve.json": "./serve.json"
   },
   "entrypoints": [
-    "static/css/main.9e51c318.css",
-    "static/js/main.60e940b9.js"
+    "static/css/main.24c4bf96.css",
+    "static/js/main.b3b41d80.js"
   ]
 }
